@@ -1,0 +1,18 @@
+76% of scraped reviews are negative. This could either mean that users are more likely to write reviews when they are dissatisfied, or that the application itself is simply unpleasant.
+
+
+The distribution of ratings proves that most of the reviews are supposed to be negative:
+Rating percentage 
+1    49.333333
+2    14.666667
+3    16.000000
+4     9.333333
+5    10.666667
+
+
+Some common insights on negative reviews:
+
+- Frequent mentions of issue, problem, bug. These words suggest that a lot of negative reviews center around technical glitches.
+- Notification. There are some troubles with user notifications.
+- There are mantions about support.  It could mean that users are dissatisfied with customer service or finding it hard to get help
+- Negative sentiment around premium or money may suggest that users feel the paid tier doesn’t justify the cost.
