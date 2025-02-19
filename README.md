@@ -13,12 +13,12 @@ Navigate to ```report.txt```
 ## Requirements
 
 - Python 3.10
-- pip install -r requirements.txt
+- ```pip install -r requirements.txt```
 - sign up in https://dataforseo.com/ to get email, password, review id. Put these values into environment variables: RESTCLIENT_EMAIL, RESTCLIENT_PASSWORD, REVIEW_ID.
 
 ## Run the API
-```cd src```
-```uvicorn src.main:app --reload```
+- ```cd src```
+- ```uvicorn src.main:app --reload```
 
 
 ## API Usage
